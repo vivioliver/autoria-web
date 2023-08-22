@@ -54,3 +54,49 @@ body {
     text-align: center;
     margin-top: -18px;
 }
+
+.materia {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.materia img {
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.texto {
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+#texto1 {
+    margin-right: 150px;
+}
+
+#texto2 {
+    margin-right: 150px;
+}
+
+.img2 {
+    text-align: center;
+}
+
+.img2 img{
+    margin-top: 25px;
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.texto2 {
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+#p1 {
+    margin-right: 150px;
+}
